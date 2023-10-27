@@ -1,15 +1,3 @@
 node_modules
 .angular
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/0.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/1.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/2.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/3.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/4.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/5.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/6.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/7.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/8.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/9.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/10.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/index.pack
-.angular/cache/14.2.13/angular-webpack/fb02b49f47c6d864efc71f11713d2096b48c555f/index.pack.old
+.angular/cache/14.2.13/
